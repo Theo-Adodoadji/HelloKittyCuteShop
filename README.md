@@ -16,7 +16,6 @@ To access our website and start exploring the cute world of Hello Kitty:
 Visit The Hello Kitty Cute Shop website at https://theo-adodoadji.github.io/HelloKittyCuteShop/.
 
 Complete your purchase securely through our checkout process.
-Contributing
 We're open to contributions and suggestions to enhance the shopping experience for Hello Kitty fans. Feel free to create pull requests or raise issues to improve the website.
 
 Support
