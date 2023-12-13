@@ -24,3 +24,37 @@
 
 
    }
+
+   .button-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px; /* Adjust margin as needed */
+    align-items: center;
+
+}
+
+/* Style for the buttons */
+.button {
+    background-color: #f443366e;  
+    border: none;
+    color: white;
+    padding: 15px 50px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    margin: 8px 2px;
+    width: 250px; 
+    cursor: pointer;
+    align-items: center;
+
+}
+.content {
+  text-align: center; /* Center-align text */
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
